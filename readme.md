@@ -10,7 +10,7 @@ Hack The Atmos is a real-time air quality monitoring and forecasting platform th
 
 ## Website
 
-https://github.com/nadasaey/Hack-The-Atom.git
+https://nadasaey.github.io/trail/
 
 ## Features
 
